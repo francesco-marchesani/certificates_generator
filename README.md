@@ -6,6 +6,7 @@
 - Files needed: certificates_generator.py (python script) + POLIMI.docx (template document), they must be in the same folder (e.g., Desktop)
  
 - Following dependendces have to be installed on Linux, MacOS and Windows: 
+
 conda install lxml
 pip install docx-mailmerge
 
