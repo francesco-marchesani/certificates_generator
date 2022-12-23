@@ -1,5 +1,5 @@
 # polimi_certificates_generator
-A python based certificate generator for POLIMI - GSOM attendance certificates
+**A python based certificate generator for POLIMI - GSOM attendance certificates**
 
 - Online reference (for Python + Word): https://pbpython.com/python-word-template.html
 
