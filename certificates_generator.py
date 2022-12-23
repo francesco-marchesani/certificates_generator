@@ -16,12 +16,12 @@ pip install docx-mailmerge
 
 #Collecting inputs
 print('\n\nWelcome to GSOM, this is the unofficial declaration of attendance generator coded by Francesco Marchesani \n\n ** Please write with the first capital letter, then lower sentence!\n\n')
-name = raw_input('Write your name (e.g., Fabio)\n')
-surname = raw_input('Write your surname (e.g., Sdogati)\n')
-city = raw_input('Write the city where you were born (e.g., Ancora)\n')
-day_of_birth = raw_input('Write the day where you were born (e.g., 03)\n')
+name = raw_input('Write your name (e.g., Mario)\n')
+surname = raw_input('Write your surname (e.g., Rossi)\n')
+city = raw_input('Write the city where you were born (e.g., Milano)\n')
+day_of_birth = raw_input('Write the day where you were born (e.g., 10)\n')
 month_of_birth = raw_input('Write the month where you were born (e.g., 03)\n')
-year_of_birth = raw_input('Write the year where you were born (e.g., 1948)\n')
+year_of_birth = raw_input('Write the year where you were born (e.g., 1990)\n')
 country_of_birth = raw_input('Write the country where you were born (e.g., Italy)\n')
 
 
