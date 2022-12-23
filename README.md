@@ -7,8 +7,8 @@
  
 - Following dependendces have to be installed on Linux, MacOS and Windows: 
 
-_conda install lxml
+conda install lxml
 
-pip install docx-mailmerge_
+pip install docx-mailmerge
 
 Right now only mandatory 2023 courses for IMBA PT MBA are supported, but the generator could easily include other courses as well.
